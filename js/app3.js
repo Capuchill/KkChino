@@ -1,1 +1,4 @@
-console.log("Creacion del archivo app3.js")
+
+if("correct".length === true) {
+    console.log("correcto");
+}
