@@ -1,1 +1,1 @@
-console.log("Archivo 2 je je");
+console.log("Archivo 2 ja ja");
